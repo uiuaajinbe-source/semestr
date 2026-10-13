@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="vuz c++/vuz c++.vcxproj" Id="43cb5ddc-bc1e-414d-af02-6a93c6e72afb" />
+</Solution>

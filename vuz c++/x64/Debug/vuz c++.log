@@ -1,0 +1,2 @@
+﻿  PostureChecker.cpp
+C:\Users\gandu\source\repos\PostureChecker\vuz c++\PostureChecker.cpp(1,10): error C1083: Не удается открыть файл включение: opencv2/opencv.hpp: No such file or directory,
